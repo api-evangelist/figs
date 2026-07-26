@@ -1,0 +1,22 @@
+# FIGS
+
+> FIGS, Inc. (NYSE: FIGS) is a founder-led, direct-to-consumer healthcare apparel and lifestyle brand founded in 2013 by Heather Hasson and Trina Spear, headquartered in Santa Monica, California. FIGS designs and sells premium scrubwear and non-scrubwear directly to healthcare professionals. It is a consumer e-commerce and retail brand with no public developer API.
+
+## Company
+- [Website](https://wearfigs.com): FIGS online store for scrubs and healthcare apparel.
+- [Our Story](https://www.wearfigs.com/pages/our-story): Company mission and background.
+- [Newsroom](https://www.wearfigs.com/pages/newsroom): Press and company news.
+- [Careers](https://www.wearfigs.com/pages/careers): Open roles at FIGS.
+- [Investor Relations](https://ir.wearfigs.com/): NYSE: FIGS investor information.
+
+## Support
+- [Help Center](https://help.wearfigs.com/hc/en-us): Customer support and FAQ.
+- [Returns & Exchanges](https://www.wearfigs.com/pages/returns): Returns policy and process.
+- [Account / Sign In](https://www.wearfigs.com/account/login): Customer account login.
+
+## Legal
+- [Terms of Use](https://www.wearfigs.com/pages/terms-of-use)
+- [Privacy Policy](https://www.wearfigs.com/pages/privacy)
+
+## Notes
+- FIGS runs its storefront on Shopify and does not publish a public developer API, OpenAPI specification, SDKs, MCP server, or developer portal as of this profile.

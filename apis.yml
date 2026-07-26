@@ -1,7 +1,13 @@
 aid: figs
 name: FIGS
-description: FIGS is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: 'FIGS, Inc. (NYSE: FIGS) is a founder-led, direct-to-consumer healthcare
+  apparel and lifestyle brand founded in 2013 by Heather Hasson and Trina Spear and
+  headquartered in Santa Monica, California. FIGS designs and sells premium scrubwear
+  and non-scrubwear offerings — lab coats, underscrubs, outerwear, footwear, compression
+  socks, loungewear, and accessories — directly to healthcare professionals through
+  its Shopify-based online store at wearfigs.com. FIGS is a consumer e-commerce and
+  retail brand with a customer help center and investor-relations presence; it publishes
+  no public developer API, SDKs, or developer portal.'
 url: https://raw.githubusercontent.com/api-evangelist/figs/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +15,30 @@ x-backed-by:
 - 500-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://cdn.shopify.com/s/files/1/0139/8942/files/figs_logo_64x64_1.png
 tags:
 - Company
+- Healthcare
+- Apparel
+- Medical
+- E-Commerce
+- Direct-to-Consumer
+- Retail
+- Consumer Goods
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +46,26 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/figs-domain-security.yml
 - type: Website
   url: https://wearfigs.com
+- type: Support
+  name: FIGS Help Center
+  url: https://help.wearfigs.com/hc/en-us
+- type: Blog
+  name: FIGS Newsroom
+  url: https://www.wearfigs.com/pages/newsroom
+- type: Login
+  url: https://www.wearfigs.com/account/login
+- type: TermsOfService
+  url: https://www.wearfigs.com/pages/terms-of-use
+- type: PrivacyPolicy
+  url: https://www.wearfigs.com/pages/privacy
+- type: LLMsTxt
+  url: llms/figs-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
